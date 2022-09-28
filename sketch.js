@@ -1,12 +1,12 @@
 
 let clrs = [
-'#E2F694', //top 0
+'#E25694', //top 0
 '#FEF2F4', //middle top 1
-'#C36F93', //middle strip 2
+'#C0FF93', //middle strip 2
 '#D02E60', //middle bottom 3
-'#3B080E' //bottom 4
+'#3BA85E' //bottom 4
 ]
-
+// I was looking to see what inveresrint patterns I could form.
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
