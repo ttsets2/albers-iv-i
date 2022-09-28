@@ -6,6 +6,7 @@ let clrs = [
 '#D02E60', //middle bottom 3
 '#3B080E' //bottom 4
 ]
+// I'm, kinda just randomly choosing colors.
 
 
 function setup() {
